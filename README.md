@@ -1,24 +1,20 @@
-# 📚 Data Structures and Algorithms (DSA)
+# 🚀 Python Learning Repository – From Basics to Advanced
 
-Welcome to my DSA repository! 🚀  
-This repository contains solutions to various Data Structures and Algorithms problems, along with explanations and clean code implementations. 
-It's designed to help me and others strengthen problem-solving skills and prepare for technical interviews.
+This repository is a structured collection of Python concepts and code examples designed for learning Python from **scratch to advanced level**.  
+All topics are covered in simple language with practical examples.
 
-## 🧠 Topics Covered
+---
 
-- **Arrays**
-- **Strings**
-- **Linked Lists**
-- **Stacks & Queues**
-- **Trees & Binary Trees**
-- **Binary Search Trees**
-- **Graphs**
-- **Recursion & Backtracking**
-- **Sorting & Searching**
-- **Dynamic Programming**
-- **Greedy Algorithms**
-- **Hashing**
-- **Bit Manipulation**
-- **Sliding Window & Two Pointers**
-- **Heaps & Priority Queues**
-- **Tree**
+## 📌 Repository Content
+
+### 📃 Basics Notebook
+
+#### 🔹 Topics Covered
+- Variables in Python  
+- Data Types  
+- Type Conversion  
+- Print Function  
+- Input Function  
+- Comments in Python  
+
+> This notebook focuses on building strong fundamentals before moving to advanced concepts.
