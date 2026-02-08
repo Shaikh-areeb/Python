@@ -17,4 +17,4 @@ All topics are covered in simple language with practical examples.
 - Input Function  
 - Comments in Python  
 
-> This notebook focuses on building strong fundamentals before moving to advanced concepts.
+> These notebook focuses on building strong fundamentals before moving to advanced concepts.
