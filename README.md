@@ -18,3 +18,16 @@ All topics are covered in simple language with practical examples.
 - Comments in Python  
 
 > These notebook focuses on building strong fundamentals before moving to advanced concepts.
+
+### 📃 Operators Notebook
+
+#### 🔹 Topics Covered
+- Arithmetic Operators  
+- Assignment Operators  
+- Comparison Operators  
+- Logical Operators  
+- Bitwise Operators  
+- Membership Operators  
+- Identity Operators  
+
+> This notebook explains all Python operators with examples and important rules to remember.
