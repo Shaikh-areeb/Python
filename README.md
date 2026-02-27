@@ -28,6 +28,14 @@ All topics are covered in simple language with practical examples.
 - Logical Operators  
 - Bitwise Operators  
 - Membership Operators  
-- Identity Operators  
+- Identity Operators
+
+### 📃 Conditional Statements Notebook
+
+#### 🔹 Topics Covered
+- `if` statement  
+- `if-else` statement  
+- `if-elif` statement  
+- `if-elif-else` statement  
 
 > This notebook explains all Python operators with examples and important rules to remember.
