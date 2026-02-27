@@ -30,6 +30,8 @@ All topics are covered in simple language with practical examples.
 - Membership Operators  
 - Identity Operators
 
+> This notebook explains all Python operators with examples and important rules to remember.
+
 ### 📃 Conditional Statements Notebook
 
 #### 🔹 Topics Covered
@@ -38,4 +40,6 @@ All topics are covered in simple language with practical examples.
 - `if-elif` statement  
 - `if-elif-else` statement  
 
-> This notebook explains all Python operators with examples and important rules to remember.
+> This notebook covers decision-making in Python using conditional statements.  
+> It explains how to control the flow of execution based on different conditions with simple and practical examples.
+
