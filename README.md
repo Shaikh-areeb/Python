@@ -56,3 +56,17 @@ All topics are covered in simple language with practical examples.
 > This notebook explains how to use **while loops** to execute a block of code repeatedly based on a condition.  
 > It covers loop control techniques and helps in understanding iteration with practical examples.
 
+### 📃 For Loop Notebook  
+
+#### 🔹 Topics Covered  
+- `for` loop basics  
+- Syntax and working  
+- Iterating over `range()`  
+- Looping through lists, strings, and tuples  
+- Nested `for` loops  
+- Loop control using `break`  
+- Skipping iterations using `continue`  
+- Using `else` with `for` loop  
+
+> This notebook explains how to use **for loops** to iterate over sequences such as lists, strings, tuples, and ranges.  
+> It covers iteration techniques, nested loops, and loop control statements with practical examples to build a strong understanding of looping in Python.
