@@ -89,3 +89,51 @@ All topics are covered in simple language with practical examples.
 
 > This notebook explains how **lists work in Python**, one of the most commonly used data structures for storing multiple values in a single variable.  
 > It covers list creation, accessing and modifying elements, adding and removing items, useful list methods, and iterating through lists with practical examples to build a strong understanding of list operations.
+
+
+### 📃 List Comprehension Notebook  
+
+#### 🔹 Topics Covered  
+- Definition of List Comprehension  
+- Syntax and Structure  
+- Conditional List Comprehension (`if`)  
+- Inline `if-else` in List Comprehension  
+- Nested List Comprehension  
+- Comparison with Traditional Loops  
+- Use Cases and Best Practices  
+
+> This notebook explains how to use **list comprehension** to write clean, concise, and pythonic code for creating and transforming lists.  
+> It covers syntax, conditions, nested loops, and comparisons with traditional looping methods to improve code readability and performance.
+
+---
+
+### 📃 Functional Programming (Lambda, map, filter, reduce) Notebook  
+
+#### 🔹 Topics Covered  
+- Lambda Functions (Anonymous Functions)  
+- Syntax and Usage of `lambda`  
+- `map()` Function  
+- `filter()` Function  
+- `functools.reduce()` Function  
+- Combining `map`, `filter`, and `reduce`  
+- Practical Use Cases and Examples  
+
+> This notebook introduces **functional programming concepts in Python** using `lambda`, `map`, `filter`, and `reduce`.  
+> It demonstrates how to perform transformations, filtering, and aggregation operations efficiently on data, along with real-world examples and best practices.
+
+---
+
+### 📃 List Slicing Notebook  
+
+#### 🔹 Topics Covered  
+- Introduction to List Slicing  
+- Syntax (`start : end : step`)  
+- Default Index Behavior  
+- Positive and Negative Indexing  
+- Step Parameter Usage  
+- Reversing Lists using Slicing  
+- Extracting Subsets of Lists  
+- Modifying Lists using Slicing  
+
+> This notebook explains how to use **list slicing** to efficiently access, extract, and modify portions of a list.  
+> It covers indexing techniques, step usage, reversing lists, and practical examples to build a strong understanding of slicing operations in Python.
