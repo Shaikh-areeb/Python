@@ -137,3 +137,23 @@ All topics are covered in simple language with practical examples.
 
 > This notebook explains how to use **list slicing** to efficiently access, extract, and modify portions of a list.  
 > It covers indexing techniques, step usage, reversing lists, and practical examples to build a strong understanding of slicing operations in Python.
+
+### 📃 Tuples Notebook
+
+#### 🔹 Topics Covered
+* Introduction to Tuples
+* Creating Tuples
+* Accessing Tuple Elements
+* Tuple Indexing and Slicing
+* Immutable Nature of Tuples
+* Single Element Tuple
+* Tuple Packing and Unpacking
+* Nested Tuples
+* Tuple Methods (`count`, `index`)
+* Iterating Through Tuples
+* Converting List to Tuple and Vice Versa
+
+> This notebook explains how **tuples work in Python**, which are ordered and immutable collections used to store multiple values in a single variable.
+> It covers tuple creation, accessing elements, slicing, packing and unpacking, and built-in methods.
+> The notebook also highlights the differences between lists and tuples and explains when to use tuples for better performance and data safety.
+
