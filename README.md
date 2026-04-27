@@ -157,3 +157,42 @@ All topics are covered in simple language with practical examples.
 > It covers tuple creation, accessing elements, slicing, packing and unpacking, and built-in methods.
 > The notebook also highlights the differences between lists and tuples and explains when to use tuples for better performance and data safety.
 
+### 📃 Strings Notebook  
+
+#### 🔹 Topics Covered  
+- Introduction to Strings  
+- Creating Strings (`' '`, `" "`, `''' '''`)  
+- String Indexing and Slicing  
+- Immutable Nature of Strings  
+- String Methods (`lower`, `upper`, `strip`, `replace`, `split`, `join`)  
+- String Concatenation and Repetition  
+- String Formatting (`f-strings`, `format()`)  
+- Escape Characters  
+- Checking Substrings using `in` and `not in`  
+- Iterating Through Strings  
+- Palindrome Check (Basic Logic Example)  
+
+> This notebook explains how **strings work in Python**, which are used to store and manipulate text data.  
+> It covers string creation, indexing, slicing, formatting, and commonly used string methods.  
+> The notebook also includes practical examples to help understand text processing and manipulation in Python.
+
+
+### 📃 Dictionary Notebook  
+
+#### 🔹 Topics Covered  
+- Introduction to Dictionaries  
+- Creating Dictionaries  
+- Accessing Dictionary Elements (`keys`)  
+- Adding and Updating Values  
+- Removing Elements (`pop`, `del`, `clear`)  
+- Dictionary Methods (`keys`, `values`, `items`, `get`, `update`)  
+- Iterating Through Dictionaries  
+- Nested Dictionaries  
+- Checking Keys using `in` and `not in`  
+- Dictionary Length using `len()`  
+- Copying Dictionaries (`copy()` method)  
+- Dictionary Comprehension  
+
+> This notebook explains how **dictionaries work in Python**, which store data in key-value pairs.  
+> It covers creating, accessing, updating, and deleting elements, along with useful dictionary methods.  
+> The notebook also includes iteration techniques and dictionary comprehension to help efficiently work with structured data.
