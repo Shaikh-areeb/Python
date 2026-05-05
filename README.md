@@ -196,3 +196,22 @@ All topics are covered in simple language with practical examples.
 > This notebook explains how **dictionaries work in Python**, which store data in key-value pairs.  
 > It covers creating, accessing, updating, and deleting elements, along with useful dictionary methods.  
 > The notebook also includes iteration techniques and dictionary comprehension to help efficiently work with structured data.
+
+### 📃 Nested Dictionary Notebook  
+
+#### 🔹 Topics Covered  
+- Introduction to Nested Dictionaries  
+- Creating Nested Dictionaries  
+- Accessing Nested Dictionary Values  
+- Updating Values in Nested Dictionaries  
+- Adding New Key-Value Pairs  
+- Removing Elements (`pop`, `del`)  
+- Iterating Through Nested Dictionaries  
+- Using `.keys()`, `.values()`, `.items()`  
+- Safe Access using `.get()`  
+- Dictionary inside Dictionary vs List inside Dictionary  
+- Practical Examples (Student Data, Employee Records)  
+
+> This notebook explains how **nested dictionaries work in Python**, where a dictionary contains another dictionary as its value.  
+> It helps in representing complex real-world structured data such as student records, employee details, and JSON-like data.  
+> The notebook covers how to access, update, iterate, and safely handle nested data with practical examples to build a strong understanding of hierarchical data structures in Python.
