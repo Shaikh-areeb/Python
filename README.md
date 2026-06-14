@@ -215,3 +215,22 @@ All topics are covered in simple language with practical examples.
 > This notebook explains how **nested dictionaries work in Python**, where a dictionary contains another dictionary as its value.  
 > It helps in representing complex real-world structured data such as student records, employee details, and JSON-like data.  
 > The notebook covers how to access, update, iterate, and safely handle nested data with practical examples to build a strong understanding of hierarchical data structures in Python.
+
+### 📃 Sets Notebook  
+
+#### 🔹 Topics Covered  
+- Introduction to Sets  
+- Creating Sets  
+- Set Properties (Unique & Unordered Elements)  
+- Adding Elements (`add`, `update`)  
+- Removing Elements (`remove`, `discard`, `pop`, `clear`)  
+- Set Operations (`union`, `intersection`, `difference`, `symmetric_difference`)  
+- Membership Testing (`in`, `not in`)  
+- Iterating Through Sets  
+- Copying Sets (`copy()` method)  
+- Removing Duplicates using Sets  
+- Set Methods and Best Practices  
+
+> This notebook explains how **sets work in Python**, which are unordered collections used to store unique values.  
+> It covers creating sets, adding and removing elements, performing mathematical set operations, and checking membership efficiently.  
+> The notebook also demonstrates practical use cases such as removing duplicates from data and performing fast lookup operations using Python sets.
