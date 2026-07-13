@@ -234,3 +234,20 @@ All topics are covered in simple language with practical examples.
 > This notebook explains how **sets work in Python**, which are unordered collections used to store unique values.  
 > It covers creating sets, adding and removing elements, performing mathematical set operations, and checking membership efficiently.  
 > The notebook also demonstrates practical use cases such as removing duplicates from data and performing fast lookup operations using Python sets.
+
+### 📃 Python Functions Notebook
+
+#### 🔹 Topics Covered
+
+* Function Definition (`def`)
+* Function Syntax and Structure
+* Parameters and Arguments
+* Return Statement (`return`)
+* Types of Arguments (Positional, Keyword, Default, `*args`, `**kwargs`)
+* Variable Scope (Local & Global)
+* Built-in vs User-defined Functions
+* Lambda (Anonymous) Functions
+* Function Best Practices
+
+> This notebook introduces the fundamentals of **Python functions**, explaining how to define, call, and organize reusable blocks of code. It covers function syntax, parameters, return values, argument types, variable scope, and lambda functions, helping build a strong foundation for writing modular, readable, and maintainable Python programs.
+
