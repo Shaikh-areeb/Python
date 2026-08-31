@@ -251,3 +251,20 @@ All topics are covered in simple language with practical examples.
 
 > This notebook introduces the fundamentals of **Python functions**, explaining how to define, call, and organize reusable blocks of code. It covers function syntax, parameters, return values, argument types, variable scope, and lambda functions, helping build a strong foundation for writing modular, readable, and maintainable Python programs.
 
+### 📃 Exception Handling Notebook  
+
+#### 🔹 Topics Covered  
+- Introduction to Exception Handling  
+- `try` Clause  
+- `except` Clause  
+- Handling Specific Exceptions  
+- Multiple `except` Blocks  
+- `else` Clause  
+- `finally` Clause  
+- `raise` Statement  
+- Common Built-in Exceptions (`ValueError`, `TypeError`, `ZeroDivisionError`, etc.)  
+- Exception Handling Best Practices  
+
+> This notebook explains how **exception handling works in Python**, allowing programs to handle runtime errors gracefully without unexpectedly terminating.  
+> It covers the `try`, `except`, `else`, and `finally` clauses, manually raising exceptions using `raise`, handling specific exceptions, and practical examples to build a strong understanding of error handling in Python.
+
